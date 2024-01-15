@@ -75,7 +75,7 @@ theme = "raditian-free-hugo-theme"
 
   [params.logo]
     text1 = "Miguel Martins Quinteiros"
-    text2 = ""
+    text2 = " "
 
   [params.footer]
       copyright = "© Miguel Martins Quinteiros. All rights reserved."
