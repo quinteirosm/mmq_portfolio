@@ -39,8 +39,8 @@ about:
   '
 
  button:
-  icon: "icon-smile-fill"
-  btnText: "About Me"
+  icon: "icon-linkedin-fill"
+  btnText: "Linkedin"
   URL: "https://www.linkedin.com/in/miguelquinteiros/"
  image:
   x: "img/who-am-i/my-picture.png"
@@ -65,13 +65,13 @@ experience:
  title: "Experience"
  description: "All my experiences at the moment were trainees and student jobs, but I'd be glad to make it longer in your company."
  button:
-  icon: "icon-linkedin-fill"
-  btnText: "Linkedin"
-  URL: "https://www.linkedin.com/in/miguelquinteiros/"
+  icon: "icon-profile-fill"
+  btnText: "Download My French Resume"
+  URL: "documents/MMQ_CV_2023.pdf"
  button2:
   icon: "icon-profile-fill"
-  btnText: "Download My Resume"
-  URL: "#"
+  btnText: "Download My English Resume"
+  URL: "documents/MMQ_CV_eng.pdf"
 
  items:
   - title: "Mediamatician trainee"
