@@ -2,13 +2,13 @@
 showcase:
  enable: true
  title: "Hello, I’m Miguel."
- subtitle: "Front-End Developer"
- description: "I work at <a target='_blank' href='https://radity.com/'>Radity</a>, a software development company in Switzerland. And I am a Raditian. You get the idea where theme name comes from. Keep cool, stay in touch. You can download this theme from <a target='_blank' href='https://github.com/radity/raditian-free-hugo-theme'>github</a>."
- image:
-  x: "img/showcase/showcase.png"
-  _2x: "img/showcase/showcase@2x.png"
- imageMobile:
-  x: "img/showcase/showcase-mobile.jpg"
+ subtitle: "Media engineer"
+ description: "I'm currently studying Media engineering at the HEIG-VD in Yverdon-les-Bains in Switzerland. I'm looking for work for january 2025 so if you want to collaborate, you can contact me in the so named section."
+ # image:
+ #  x: "img/showcase/showcase.png"
+ #  _2x: "img/showcase/showcase@2x.png"
+ # imageMobile:
+ #  x: "img/showcase/showcase-mobile.jpg"
 
  button:
   icon: "icon-mail-fill"
@@ -26,23 +26,25 @@ showcase:
 about:
  enable: true
  title: "Who am I?"
- content: '<p class="lead">
-  I am back, after a few days of vacationing with family. Weather was awesome, the beach was
-  full of nasty jelly-fish, yuk! All-in-all, life has been good. I hope life has been as
-  good for all of you.
+ content: '
+  <p class="lead">
+  My area of focus lies in fullstack web developement, but my goal above all is to create experiences
+  that profit the most. Accessibility and ease of use are the metrics to always have in mind.
+  <b>
+
   </p>
   <p class="lead">
-  My area of focus lies in designing web and mobile products, user research as well as
-  leading of design & front-end teams. I enjoy designing and coding the UI as much as
-  talking with users to iterate and improve the experiences that reach business goals.
-  </p>'
+  In my free time I like to spend quality time with my family and friends and my main interests are music, art and culture.
+  </p>
+  '
+
  button:
   icon: "icon-smile-fill"
   btnText: "About Me"
   URL: "https://www.linkedin.com/in/miguelquinteiros/"
  image:
-  x: "img/who-am-i/user-picture.png"
-  _2x: "img/who-am-i/user-picture@2x.png"
+  x: "img/who-am-i/my-picture.png"
+  _2x: "img/who-am-i/my-picture@2x.png"
 
 # education
 education:
@@ -87,7 +89,7 @@ experience:
 # Client & Work
 client_and_work:
  title: "Works"
- enable: false
+ enable: true
 
  works:
   - title: "Radity Finance - UI Kit"
