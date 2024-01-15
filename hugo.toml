@@ -78,8 +78,4 @@ theme = "raditian-free-hugo-theme"
     text2 = ""
 
   [params.footer]
-      copyright = "© Raditian. All rights reserved."
-      [params.footer.radity_logo]
-        x = "img/general/design-and-code-radity.png"
-        _2x = "img/general/design-and-code-radity@2x.png"
-        alt = "Design & Code - Radity"
+      copyright = "© Miguel Martins Quinteiros. All rights reserved."
