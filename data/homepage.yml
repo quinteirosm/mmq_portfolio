@@ -84,7 +84,6 @@ experience:
 client_and_work:
  title: "Portfolio"
  enable: true
-
  works:
   - title: "LabVeilTec - Website"
     description: "
@@ -100,7 +99,6 @@ client_and_work:
       _2x: "img/works/LabVeilTec.jpg"
     is_even: true
 
- works:
   - title: "Couleur3 - WebApp"
     description: "
     During the RTS Hackdays, I worked with a team to renovate the webapp for the radio Couleur3. 
