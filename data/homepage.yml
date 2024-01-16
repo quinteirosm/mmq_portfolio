@@ -98,8 +98,8 @@ client_and_work:
      btnText: "Go to the page (not available for the moment)"
      URL: "#"
     image:
-      x: "img/works/HEIG.svg"
-      _2x: "img/works/HEIG.svg"
+      x: ""
+      _2x: ""
     is_even: true
 
   - title: "DogWalk API & App (ongoing)"
