@@ -4,6 +4,11 @@
 	.section div[class*="col-"] img.image-left-overflow {
 		margin-left: 0px;
 	}
+
+	.section div[class*="col-"] img {
+		max-height: 430px;
+	}
+
 	.header .navbar .nav-item .nav-link {
 		padding-left: 20px;
 		padding-right: 20px;
