@@ -89,7 +89,7 @@ client_and_work:
  works:
   - title: "Bachelor's work 2024"
     description: "
-    There will be a full, detailed page on my experience of the Bachelor's work that marks the end of my studies. 
+    There will be a full, detailed page on my experience of the Bachelor's work that marks the end of my studies at HEIG-VD. 
     This work will start at the end of May and end on September 2024, so don't hesitate to drop by again before the end of the year.
     The work will consist of a mobile application for a start-up from the EPFL in Lausanne. 
     The whole process will be traced from conception to deployment."
@@ -98,8 +98,8 @@ client_and_work:
      btnText: "Go to the page (not available for the moment)"
      URL: "#"
     image:
-      x: ""
-      _2x: ""
+      x: "img/works/HEIG.svg"
+      _2x: "img/works/HEIG.svg"
     is_even: true
 
   - title: "DogWalk API & App (ongoing)"
@@ -179,8 +179,8 @@ client_and_work:
      btnText: "Report"
      URL: "documents/BurgersLovers.pdf"
     image:
-     x: "img/works/BurgersLovers.jpg"
-     _2x: "img/works/BurgersLovers.jpg"
+     x: "img/works/BurgersLovers.png"
+     _2x: "img/works/BurgersLovers.png"
     is_even: true
 
 # testimonial
