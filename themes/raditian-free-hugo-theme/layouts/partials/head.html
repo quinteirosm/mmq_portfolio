@@ -1,6 +1,6 @@
-<meta charset="UTF-8"/>
-<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<meta http-equiv="X-UA-Compatible" content="ie=edge"/>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="X-UA-Compatible" content="ie=edge" />
 <!-- Google Tag Manager -->
 <script>
     (function (w, d, s, l, i) {
@@ -9,8 +9,8 @@
             'gtm.start': new Date().getTime(),
             event: 'gtm.js'
         });
-        var f = d.getElementsByTagName(s)[0],
-            j = d.createElement(s),
+        var f = d.getElementsByTagName(s)[0], x
+        j = d.createElement(s),
             dl = l != 'dataLayer' ? '&l=' + l : '';
         j.async = true;
         j.src =
@@ -213,5 +213,5 @@
 </style>
 
 {{ range .Site.Params.plugins.css }}
-<link rel="stylesheet" href="{{ .URL | absURL }}"/>
+<link rel="stylesheet" href="{{ .URL | absURL }}" />
 {{ end }}
