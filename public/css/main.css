@@ -10354,7 +10354,7 @@ textarea:focus {
 }
 @media (min-width: 1200px) {
 	.section div[class*="col-"] img.image-left-overflow {
-		margin-left: -120px;
+		margin-left: 0px;
 	}
 	.header .navbar .nav-item .nav-link {
 		padding-left: 20px;
@@ -10649,6 +10649,6 @@ textarea:focus {
 		margin-bottom: 0;
 	}
 	.rad-showcase + section {
-		margin-top: 0px;
+		margin-top: -125px;
 	}
 }
