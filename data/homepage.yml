@@ -14,6 +14,7 @@ showcase:
   icon: "icon-mail-fill"
   btnText: "Contact"
   URL: "#contact"
+  
 # about
 about:
  enable: true
@@ -34,7 +35,7 @@ about:
   URL: "https://www.linkedin.com/in/miguelquinteiros/"
 
  button2:
-  icon: "icon-Github-fill"
+  icon: "icon-github-fill"
   btnText: "Github"
   URL: "https://github.com/quinteirosm"
 
