@@ -87,7 +87,29 @@ client_and_work:
  title: "Portfolio"
  enable: true
  works:
-  - title: "LabVeilTec - Website"
+  - title: "DogWalk API & App (ongoing)"
+    description: "
+    During our 3rd year, for the web architecture and mobile development courses, we were able to carry out a joint project. 
+    The project consisted of an API and an application based on it, the aim of which was to enable dog walkers to stop walking their dogs on their own.
+    We used Node.js, Express.js, MongoDB, Ionic, Android SDK and Swagger for the documentation. "
+    button:
+     icon: "icon-arrow-right"
+     btnText: "API's documentation"
+     URL: "https://dogwalkapi.onrender.com/api-docs/"
+    button:
+     icon: "icon-arrow-right"
+     btnText: "API's repository"
+     URL: "https://github.com/Tupidix/DogWalkAPI"
+    button:
+     icon: "icon-arrow-right"
+     btnText: "App's repository"
+     URL: "https://github.com/Tupidix/DogWalkAPP"
+    image:
+      x: "img/works/DogWalk.png"
+      _2x: "img/works/DogWalk.png"
+    is_even: true
+
+  - title: "LabVeilTec - SSG Website"
     description: "
     For the technology watch course, we had to research and write various articles on technology watch and how to apply it to ourselves. 
     The only condition was that we had to submit the articles in the form of a site generated with an SSG. 
@@ -97,8 +119,8 @@ client_and_work:
      btnText: "Website"
      URL: "https://quinteirosm.github.io/LabVeilTec/"
     image:
-      x: "img/works/LabVeilTec.jpg"
-      _2x: "img/works/LabVeilTec.jpg"
+      x: "img/works/Hugo.png"
+      _2x: "img/works/Hugo.png"
     is_even: true
 
   - title: "Couleur3 - WebApp"
@@ -110,6 +132,10 @@ client_and_work:
      icon: "icon-arrow-right"
      btnText: "Github repository"
      URL: "https://github.com/loicfontaine/FlopV2"
+    button:
+     icon: "icon-arrow-right"
+     btnText: "Report"
+     URL: "documents/Couleur3.pdf"
     image:
      x: "img/works/Couleur3.jpg"
      _2x: "img/works/Couleur3.jpg"
@@ -125,8 +151,8 @@ client_and_work:
      btnText: "Github repository"
      URL: "https://github.com/quinteirosm/visualdon-projet-sommeil"
     image:
-      x: "img/works/SleepCompare.jpg"
-      _2x: "img/works/SleepCompare.jpg"
+      x: "img/works/SleepCompare.png"
+      _2x: "img/works/SleepCompare.png"
     is_even: true
 
   - title: "Burgers Lovers - E-Commerce"
@@ -140,17 +166,6 @@ client_and_work:
     image:
      x: "img/works/BurgersLovers.jpg"
      _2x: "img/works/BurgersLovers.jpg"
-    is_even: true
-
-  - title: "Omega - Digital Ecosystem Analysis"
-    description: "This digital ecosystem analysis was made for a school project during our first year for the Digital Marketing class."
-    button:
-     icon: "icon-arrow-right"
-     btnText: "Report"
-     URL: "documents/Omega.pdf"
-    image:
-     x: "img/works/Omega.jpg"
-     _2x: "img/works/Omega.jpg"
     is_even: true
 
 # testimonial
