@@ -134,8 +134,8 @@ client_and_work:
      btnText: "Website"
      URL: "https://quinteirosm.github.io/LabVeilTec/"
     image:
-      x: "img/works/Hugo.png"
-      _2x: "img/works/Hugo.png"
+      x: "img/works/LabVeilTec.png"
+      _2x: "img/works/LabVeilTec.png"
     is_even: true
 
   - title: "Couleur3 - WebApp"
