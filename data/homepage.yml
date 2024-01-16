@@ -14,7 +14,7 @@ showcase:
   icon: "icon-mail-fill"
   btnText: "Contact"
   URL: "#contact"
-  
+
 # about
 about:
  enable: true
@@ -63,11 +63,11 @@ experience:
  description: "All my experiences at the moment were trainees and student jobs, but I'd be glad to make it longer in your company."
  button:
   icon: "icon-profile-fill"
-  btnText: "Download My French Resume"
+  btnText: "French resume"
   URL: "documents/MMQ_CV_2023.pdf"
  button2:
   icon: "icon-profile-fill"
-  btnText: "Download My English Resume"
+  btnText: "English resume"
   URL: "documents/MMQ_CV_eng.pdf"
 
  items:
