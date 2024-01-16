@@ -9,3 +9,7 @@
 		padding-right: 20px;
 	}
 }
+
+.img-clip-left-forward .img-clip-left-backward {
+	max-height: 100%;
+}
