@@ -98,8 +98,8 @@ client_and_work:
      btnText: "Go to the page (not available for the moment)"
      URL: "#"
     image:
-      x: "img/works/HEIG.png"
-      _2x: "img/works/HEIG.png"
+      x: "img/works/HEIG.svg"
+      _2x: "img/works/HEIG.svg"
     is_even: true
 
   - title: "DogWalk API & App (ongoing)"
@@ -179,8 +179,8 @@ client_and_work:
      btnText: "Report"
      URL: "documents/BurgersLovers.pdf"
     image:
-     x: "img/works/BurgersLovers.png"
-     _2x: "img/works/BurgersLovers.png"
+     x: "img/works/BurgersLovers.svg"
+     _2x: "img/works/BurgersLovers.svg"
     is_even: true
 
 # testimonial
