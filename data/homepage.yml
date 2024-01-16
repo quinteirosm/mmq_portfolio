@@ -216,11 +216,12 @@ contact:
  enable: true
  title: "Contact"
  form:
-  action: "#"
-  method: "post"
-  full_name: "Full Name"
-  email: "Email Address"
-  message: "Type Your Message Here"
+  action: "https://formsubmit.co/quinteiros.m@gmail.com"
+  method: "POST"
+  full_name: "Name"
+  email: "Email address"
+  subject: "Subject"
+  message: "Type your message here !"
  email:
   title: "Email"
   email: '<a href="mailto:quinteiros.m@gmail.com">quinteiros.m@gmail.com</a>'
