@@ -4,7 +4,7 @@ showcase:
  title: "Hello, I’m Miguel"
  subtitle: "a Media Engineering student"
  description: "
- I'm currently studying at the HEIG-VD in Yverdon-les-Bains, Switzerland.
+ I'm currently studying at the HEIG-VD in Yverdon-les-Bains, Switzerland.<br>
  I'm looking for a job in January 2025, so if you'd like to collaborate, feel free to contact me."
  
  # image:
@@ -22,9 +22,9 @@ showcase:
 about:
  enable: true
  title: "Who am I?"
- content: 'My area of focus lies in fullstack web development, but my goal above all is to create experiences that profit the most.<br>
- Accessibility and ease of use are the metrics to always have in mind.<br>
- In my free time I like to spend quality time with my family and friends and my main interests are music, art and culture.'
+ content: "My area of focus lies in fullstack web development, but my goal above all is to create experiences that profit the most.<br>
+ Accessibility and ease of use are the metrics to always have in mind. Designers and developers shouldn't forget that behind an interface, there's a human using it.<br><br>
+ In my free time I like to spend quality time with my family and friends and my main interests are music, art and culture."
  buttons :
   - icon: "icon-linkedin-fill"
     btnText: "Linkedin"
@@ -78,10 +78,10 @@ client_and_work:
  works:
   - title: "Bachelor's work 2024"
     description: "
-    There will be a full, detailed page on my experience of the Bachelor's work that marks the end of my studies at HEIG-VD. 
-    This work will start at the end of May and end on September 2024, so don't hesitate to drop by again before the end of the year.
-    The work will consist of a mobile application for a start-up from the EPFL in Lausanne. 
-    The whole process will be traced from conception to deployment."
+    There will be a full, detailed page on my experience of the Bachelor's work that marks the end of my studies at HEIG-VD.<br>
+    This work will start at the end of May and end on September 2024, so don't hesitate to drop by again before the end of the year.<br>
+    The work will consist of a mobile application for a start-up from the EPFL in Lausanne.<br>
+    The whole process will be traced from conception to deployment.<br>"
     buttons:
      - icon: "icon-arrow-right"
        btnText: "Go to the page (not available for the moment)"
@@ -93,9 +93,9 @@ client_and_work:
 
   - title: "DogWalk API & App (ongoing)"
     description: "
-    During our 3rd year, for the web architecture and mobile development courses, we were able to carry out a joint project. 
-    The project consisted of an API and an application based on it, the aim of which was to enable dog walkers to stop walking their dogs on their own.
-    We used Node.js, Express.js, MongoDB, Ionic, Android SDK and Swagger for the documentation. "
+    During our 3rd year, for the web architecture and mobile development courses, we were able to carry out a joint project.<br>
+    The project consisted of an API and an application based on it, the aim of which was to enable dog walkers to stop walking their dogs on their own.<br><br>
+    We've used Node.js, Express.js, MongoDB, Ionic, Android SDK and Swagger for the documentation.<br> "
     buttons:
      - icon: "icon-arrow-right"
        btnText: "API's documentation"
@@ -113,9 +113,9 @@ client_and_work:
 
   - title: "LabVeilTec - SSG Website (ongoing)"
     description: "
-    For the technology watch course, we had to research and write various articles on technology watch and how to apply it to ourselves. 
-    The only condition was that we had to submit the articles in the form of a site generated with an SSG. 
-    It was during this project that I discovered Hugo."
+    For the technology watch course, we had to research and write various articles on technology watch and how to apply it to ourselves.<br> 
+    The only condition was that we had to submit the articles in the form of a site generated with an SSG.<br> 
+    It was during this project that I discovered Hugo.<br>"
     buttons:
      - icon: "icon-arrow-right"
        btnText: "Website"
@@ -127,9 +127,9 @@ client_and_work:
 
   - title: "Couleur3 - WebApp"
     description: "
-    During the RTS Hackdays, I worked with a team to renovate the webapp for the radio Couleur3. 
-    The goal was to increase interactivity and to make it more user friendly. We won the third prize for the best project. 
-    During this project, I was in charge of project management and fullstack development."
+    During the RTS Hackdays, I worked with a team to renovate the webapp for the radio Couleur3.<br> 
+    The goal was to increase interactivity and to make it more user friendly. We won the third prize for the best project.<br><br> 
+    During this project, I was in charge of project management and fullstack development.<br>"
     buttons:
      - icon: "icon-arrow-right"
        btnText: "Github repository"
@@ -144,9 +144,9 @@ client_and_work:
   
   - title: "SleepCompare - Datavisualisation website"
     description: "
-    SleepCompare is a website that compares the sleep between two persons, one of them having a sleep disorder. 
-    It was made for a school project during our second year for the D3.js course. 
-    During this project, I was in charge of data treatment and helped on the front-end."
+    SleepCompare is a website that compares the sleep between two persons, one of them having a sleep disorder.<br> 
+    It was made for a school project during our second year for the D3.js course.<br><br> 
+    During this project, I was in charge of data treatment and helped on the front-end.<br>"
     buttons:
      - icon: "icon-arrow-right"
        btnText: "Github repository"
@@ -158,8 +158,9 @@ client_and_work:
 
   - title: "Burgers Lovers - E-Commerce"
     description: "
-    Burgers Lovers is a fictive e-commerce website that sells burgers. 
-    It was made for a school project during our second year."
+    Burgers Lovers is a fictive e-commerce website that sells burgers.<br> 
+    It was made for a school project during our second year.<br><br>
+    During this project, I was in charge of e-commerce plug-ins and products implementation.<br>"
     buttons:
      - icon: "icon-arrow-right"
        btnText: "Report"
