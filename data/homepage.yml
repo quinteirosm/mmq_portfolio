@@ -22,9 +22,9 @@ showcase:
 about:
  enable: true
  title: "Who am I?"
- content: "My area of focus lies in fullstack web development, but my goal above all is to create experiences that profit the most.<br>
- Accessibility and ease of use are the metrics to always have in mind. Designers and developers shouldn't forget that behind an interface, there's a human using it.<br><br>
- In my free time I like to spend quality time with my family and friends and my main interests are music, art and culture."
+ content: "While fullstack web development is my primary focus, my ultimate objective is to create immersive and enjoyable experiences.<br>
+ The metrics that should always be kept in mind are accessibility and ease of use. It is important for designers and developers to remember that people are the ones who use interfaces.<br><br>
+ My primary interests in life are music, art, culture and high-tech. I enjoy spending time with my family and friends when I have free time."
  buttons :
   - icon: "icon-linkedin-fill"
     btnText: "Linkedin"
