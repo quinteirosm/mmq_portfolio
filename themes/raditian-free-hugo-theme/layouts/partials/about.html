@@ -16,8 +16,7 @@
         </p>
         <div>
           {{ range .Site.Data.homepage.about.buttons }}
-          <a href="{{ .URL | absURL }}" class="btn btn-primary"
-                    target="_blank">
+          <a href="{{ .URL | absURL }}" class="btn btn-primary" target="_blank">
                     <i class="{{ .icon }}"></i>
                     {{ .btnText }}
                     <i class="icon-arrow-right"></i>
