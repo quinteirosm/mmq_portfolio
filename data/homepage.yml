@@ -85,7 +85,7 @@ client_and_work:
     buttons:
      - icon: "icon-arrow-right"
        btnText: "Go to the page (not available for the moment)"
-       URL: "#"
+       URL: ""
     image:
       x: "img/works/HEIG.svg"
       _2x: "img/works/HEIG.svg"
