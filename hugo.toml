@@ -36,6 +36,11 @@ theme = "raditian-free-hugo-theme"
   weight = 2.5
 
   [[menu.header]]
+  name = "Experience"
+  URL = "#experience"
+  weight = 2.7
+
+  [[menu.header]]
   name = "Portfolio"
   URL = "#portfolio"
   weight = 3
@@ -55,6 +60,11 @@ theme = "raditian-free-hugo-theme"
   name = "Education"
   URL = "#education"
   weight = 2.5
+
+  [[menu.header]]
+  name = "Experience"
+  URL = "#experience"
+  weight = 2.7
 
   [[menu.footer]]
   name = "Portfolio"
