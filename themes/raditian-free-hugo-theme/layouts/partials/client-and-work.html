@@ -22,7 +22,7 @@
               </a>
         {{ end }}
       </div>
-      <div class="col-12 col-md-7 pl-md-0 text-right">
+      <div class="col-12 col-md-7 pl-md-0 text-right d-flex flex-wrap align-items-center">
         <img
           class='lozad img-responsive {{ cond (eq ( mod $index 4) 0) "img-clip-left-backward" "img-clip-left-forward" }}'
           src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
@@ -32,7 +32,7 @@
         />
       </div>
       {{ else }}
-      <div class="col-12 col-md-7 pl-md-0 text-right">
+      <div class="col-12 col-md-7 pl-md-0 text-right d-flex flex-wrap align-items-center">
         <img
           class='lozad img-responsive {{ cond (eq ( mod $index 4) 1)  "img-clip-right-backward" "img-clip-right-forward" }}'
           src="data:image/gif;base64,R0lGODlhBwACAIAAAP///wAAACH5BAEAAAEALAAAAAAHAAIAAAIDjI9YADs="
