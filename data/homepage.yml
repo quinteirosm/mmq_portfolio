@@ -22,15 +22,9 @@ showcase:
 about:
  enable: true
  title: "Who am I?"
- content: '
-  <p class="lead">
-  My area of focus lies in fullstack web developement, but my goal above all is to create experiences
+ content: 'My area of focus lies in fullstack web development, but my goal above all is to create experiences
   that profit the most. Accessibility and ease of use are the metrics to always have in mind.
-  </p>
-  <p class="lead">
-  In my free time I like to spend quality time with my family and friends and my main interests are music, art and culture.
-  </p>
-  '
+  In my free time I like to spend quality time with my family and friends and my main interests are music, art and culture.'
  button:
   icon: "icon-linkedin-fill"
   btnText: "Linkedin"
