@@ -84,8 +84,8 @@ theme = "raditian-free-hugo-theme"
   googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
 
   [params.logo]
-    text1 = "Miguel Martins Quinteiros"
+    text1 = "Miguel Quinteiros"
     text2 = " . "
 
   [params.footer]
-      copyright = "© Miguel Martins Quinteiros. All rights reserved."
+      copyright = "© Miguel Quinteiros. All rights reserved."
