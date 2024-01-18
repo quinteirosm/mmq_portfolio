@@ -61,7 +61,7 @@ theme = "raditian-free-hugo-theme"
   URL = "#education"
   weight = 2.5
 
-  [[menu.header]]
+  [[menu.footer]]
   name = "Experience"
   URL = "#experience"
   weight = 2.7
